@@ -48,11 +48,11 @@ public class bill {
 		System.out.println("OrderNo. "+orderno+"\n\n");
 		System.out.println("Date. "+date);
 		System.out.println("Product Id\tName\tQuantity\tPrice\tTotal");
-		System.out.println("************************************************");
+		System.out.println("---------------------------------------------------");
 		for(int i=0;i<n;i++) {
 			obj[i].display();
 		}
-		System.out.println("************************************************");
+		System.out.println("---------------------------------------------------");
 	}
 
 }
