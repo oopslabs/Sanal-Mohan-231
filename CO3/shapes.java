@@ -9,7 +9,7 @@ public class shapes {
 		System.out.println("The area of the circle is "+A);
 	}
 	void Area(int a,int b) {
-		System.out.println("The area of the square is "+a*b);
+		System.out.println("The area of the rectangle is "+a*b);
 	}
 
 	public static void main(String[] args) {
