@@ -12,4 +12,4 @@ public class q1 extends Applet
 		g.drawRect(100,100,100,100);
 	}
 }
-/*<applet code = "co5_1.class" width=300 height=250></applet>*/
+/*<applet code = "q1.class" width=300 height=250></applet>*/
